@@ -1,0 +1,899 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "65a43853-fed5-47dc-8496-a0facecf291b")
+	(paper "A4")
+	(title_block
+		(title "The Brains of the operation")
+		(date "2024-08-17")
+		(rev "V1")
+		(comment 1 "AW")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 101.6 95.25) (xy 143.51 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bdda296-b39b-4873-a6ce-d1751e757f4d")
+	)
+	(wire
+		(pts
+			(xy 101.6 82.55) (xy 143.51 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "198dc4f0-0140-4f1b-83aa-62bab9b8afed")
+	)
+	(wire
+		(pts
+			(xy 101.6 73.66) (xy 143.51 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30a4d11a-6621-4d54-82a6-972d012f1bcd")
+	)
+	(wire
+		(pts
+			(xy 101.6 90.17) (xy 143.51 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36bdd8a3-2551-41a6-a6e1-a837af84cc54")
+	)
+	(wire
+		(pts
+			(xy 38.1 152.4) (xy 41.91 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "473fc618-e50f-4f4d-91e6-78ce69f9edd5")
+	)
+	(wire
+		(pts
+			(xy 77.47 114.3) (xy 77.47 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c091aa-07b5-4a22-acb6-a3602d05a10c")
+	)
+	(wire
+		(pts
+			(xy 199.39 45.72) (xy 204.47 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48258211-7251-4712-be4b-e8516d36ffa0")
+	)
+	(wire
+		(pts
+			(xy 101.6 66.04) (xy 143.51 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49e2f4b0-a8c3-4d24-9faa-15687e94ddf5")
+	)
+	(wire
+		(pts
+			(xy 101.6 97.79) (xy 143.51 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b45e647-3b1a-4b74-9268-a0d96e27ea33")
+	)
+	(wire
+		(pts
+			(xy 101.6 54.61) (xy 143.51 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fe36f2d-544b-46c2-8097-37d1ca384d31")
+	)
+	(wire
+		(pts
+			(xy 101.6 100.33) (xy 143.51 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6586700a-8dfb-41cd-8ced-71da2fcf3a6c")
+	)
+	(wire
+		(pts
+			(xy 101.6 63.5) (xy 143.51 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "743c9326-fcdb-44dd-bb4a-d8c0cc701c90")
+	)
+	(wire
+		(pts
+			(xy 101.6 71.12) (xy 143.51 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "753b9764-8388-4b96-8066-e143d92ac741")
+	)
+	(wire
+		(pts
+			(xy 101.6 87.63) (xy 143.51 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eb235b9-5b8b-44cb-b1df-171e123dc33f")
+	)
+	(wire
+		(pts
+			(xy 199.39 48.26) (xy 204.47 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bc4e348-1127-461f-990f-7215ac0170b0")
+	)
+	(wire
+		(pts
+			(xy 101.6 57.15) (xy 143.51 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aae01764-3a81-4938-9d07-5fb314758dce")
+	)
+	(wire
+		(pts
+			(xy 38.1 50.8) (xy 40.64 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfe382d0-a27f-40e2-ad42-c46e3e728776")
+	)
+	(wire
+		(pts
+			(xy 101.6 77.47) (xy 143.51 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca8ccd0f-c329-4c35-8a43-efdd7b8aa811")
+	)
+	(wire
+		(pts
+			(xy 72.39 114.3) (xy 72.39 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e782c936-56e5-4820-890a-ea1952dbc174")
+	)
+	(wire
+		(pts
+			(xy 69.85 114.3) (xy 69.85 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebcc43c0-170a-4397-bb8f-be223b7e7944")
+	)
+	(wire
+		(pts
+			(xy 101.6 80.01) (xy 143.51 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1bf6547-e6f9-4bdd-aab9-32185b0438eb")
+	)
+	(wire
+		(pts
+			(xy 38.1 149.86) (xy 41.91 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5c959c8-a9f2-4f9c-80b2-cbc0fde6a2ab")
+	)
+	(wire
+		(pts
+			(xy 101.6 85.09) (xy 143.51 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5d83f37-2a3c-4130-88ce-3918d0b49d83")
+	)
+	(wire
+		(pts
+			(xy 101.6 92.71) (xy 143.51 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fccc3e20-f8b7-4cee-ad88-a0a94c883080")
+	)
+	(wire
+		(pts
+			(xy 38.1 48.26) (xy 40.64 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe3a8dc6-90e9-48dd-b4ae-c3c9bd8862d8")
+	)
+	(text "Wont need this if we can get the wifi set up. "
+		(exclude_from_sim no)
+		(at 72.644 164.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "63cb73ea-8556-4883-bd1f-d84c1087c7c6")
+	)
+	(label "+3.3V"
+		(at 38.1 149.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "091d3df5-6d18-43c6-8baf-b1f819af9318")
+	)
+	(label "+5V"
+		(at 38.1 152.4 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0a62786a-aae5-4388-8991-ad2c6475162d")
+	)
+	(label "+5V"
+		(at 38.1 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "207759a0-0769-431f-9d8f-a4af354d7b7c")
+	)
+	(label "+3.3V"
+		(at 204.47 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "29010fb9-dd72-4200-97ca-f0d6d556c8c2")
+	)
+	(label "+5V"
+		(at 204.47 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "58eb37b7-ea88-4006-a51f-04a1350dd685")
+	)
+	(label "+3.3V"
+		(at 38.1 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b5b2e2b-29f9-4e35-8010-59aba9d48018")
+	)
+	(sheet
+		(at 143.51 36.83)
+		(size 55.88 78.74)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "06c5c2b3-901c-41cc-ba15-5377c735e49c")
+		(property "Sheetname" "Connectors"
+			(at 143.51 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 143.51 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "HDMI0_D2_P" input
+			(at 143.51 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "73c65a63-788c-4e6d-abce-58857b9b358b")
+		)
+		(pin "HDMI0_D2_N" input
+			(at 143.51 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3fc1f2a2-3abf-490e-a817-31fbfe124087")
+		)
+		(pin "HDMI0_D1_P" input
+			(at 143.51 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c3d669fb-7f6e-4da1-b99d-ebbee93a8cde")
+		)
+		(pin "HDMI0_D1_N" input
+			(at 143.51 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "feaeec44-c91a-4a90-85f9-3b327a31a46e")
+		)
+		(pin "HDMI0_D0_P" input
+			(at 143.51 90.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e6b239b4-c0a6-43a1-8344-6c9d3d8fb414")
+		)
+		(pin "HDMI0_D0_N" input
+			(at 143.51 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e4633065-185c-4da6-97aa-348daaac4c90")
+		)
+		(pin "HDMI0_CK_P" input
+			(at 143.51 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8a435cf9-1591-4d20-970e-72c78b0a05dd")
+		)
+		(pin "HDMI0_CK_N" input
+			(at 143.51 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "90ed337a-0a4f-4185-b331-f6676a46a08b")
+		)
+		(pin "HDMI0_CEC" input
+			(at 143.51 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "702fec3b-ec5b-4a50-8046-6c3036af69f6")
+		)
+		(pin "HDMI0_SCL" input
+			(at 143.51 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9972b9b0-30d5-4e24-821e-108078630fc2")
+		)
+		(pin "HDMI0_SDA" input
+			(at 143.51 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ed81a2c4-fa90-4485-a48c-239af38822f2")
+		)
+		(pin "HDMI0_HOTPLUG" input
+			(at 143.51 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "052aec79-6635-4897-8e0e-42b1e47caa11")
+		)
+		(pin "+5v" input
+			(at 199.39 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b6ce157f-7425-44b2-8b77-5cf3e564743e")
+		)
+		(pin "SCL" input
+			(at 143.51 54.61 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3de8cc4a-b1c4-4707-9692-94dc00047bd4")
+		)
+		(pin "SDA" input
+			(at 143.51 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c544fc73-1636-4bb6-87cb-0cb161e51dda")
+		)
+		(pin "+3.3V" input
+			(at 199.39 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0b62aa16-e58d-4abe-b951-c24abd71248c")
+		)
+		(pin "USB_P" bidirectional
+			(at 143.51 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d7f6d146-593f-4284-a213-14a8106e8976")
+		)
+		(pin "USB_N" bidirectional
+			(at 143.51 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "84241d68-2dd1-4fa1-b444-43ccf0e48508")
+		)
+		(instances
+			(project "TheBrain"
+				(path "/65a43853-fed5-47dc-8496-a0facecf291b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 138.43)
+		(size 63.5 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "828b6eb7-e564-4aa4-be35-4dd33af5a82e")
+		(property "Sheetname" "RTC"
+			(at 41.91 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RTC.kicad_sch"
+			(at 41.91 180.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SCL" input
+			(at 69.85 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1b87a00d-aa1d-4d62-a9f1-95ba51fcc7cd")
+		)
+		(pin "SDA" input
+			(at 72.39 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f01e8527-4bdc-4195-9de0-79f3068b167d")
+		)
+		(pin "+5v" input
+			(at 41.91 152.4 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f147e211-c0ad-4f21-a36f-a8a7458407a0")
+		)
+		(pin "GLOBAL_EN" output
+			(at 77.47 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3e5d7176-7a6f-4333-a7e6-4baf341b40e8")
+		)
+		(pin "+3.3v" input
+			(at 41.91 149.86 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "83189ce2-bba3-478d-9cb7-77a83ee67688")
+		)
+		(instances
+			(project "TheBrain"
+				(path "/65a43853-fed5-47dc-8496-a0facecf291b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 38.1)
+		(size 60.96 76.2)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e01117e7-e4d0-4aaa-9507-8d22ff79cac6")
+		(property "Sheetname" "CM4 Module"
+			(at 40.64 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CM4_Module.kicad_sch"
+			(at 40.64 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDC1" input
+			(at 101.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6952e530-8753-42cd-b665-2e70d1d63383")
+		)
+		(pin "SDA1" input
+			(at 101.6 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "98a6a0fc-53ff-41b6-a185-7fc04efb9222")
+		)
+		(pin "SCL0" output
+			(at 69.85 114.3 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3f15489e-473b-4557-8047-d4ab1a823f9a")
+		)
+		(pin "SDA0" output
+			(at 72.39 114.3 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c2a9e4dd-cf50-4819-832f-d03a84ce7972")
+		)
+		(pin "+3.3v" output
+			(at 40.64 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bbad1383-3e76-4da6-b683-2cc958af24f5")
+		)
+		(pin "+5v" input
+			(at 40.64 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "58816756-8f2e-4be7-be4c-4e958e282e0a")
+		)
+		(pin "GLOBAL_EN" input
+			(at 77.47 114.3 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e4453f47-a6b3-4634-a0ed-c75ec8f9d5db")
+		)
+		(pin "USB2_N" bidirectional
+			(at 101.6 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3c1fca7a-ae6f-4533-9409-90ef96f87c0f")
+		)
+		(pin "USB2_P" bidirectional
+			(at 101.6 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "470bbda1-c731-4819-a387-c0e7956deacb")
+		)
+		(pin "HDMI0_CEC" input
+			(at 101.6 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "826fcfcf-f92b-418e-8de9-d0dbc71ab872")
+		)
+		(pin "HDMI0_HOTPLUG" input
+			(at 101.6 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2ffaa345-527b-4642-ae27-5424f52c59bc")
+		)
+		(pin "HDMI0_SDA" input
+			(at 101.6 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dc297a73-e138-42ac-9bbc-5141461b1d53")
+		)
+		(pin "HDMI0_SCL" input
+			(at 101.6 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7b771940-2d94-4308-b9c4-b2120b563321")
+		)
+		(pin "HDMI0_CK_N" input
+			(at 101.6 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3daa6379-982a-47ab-b5e2-263cdfe9a6ba")
+		)
+		(pin "HDMI0_CK_P" input
+			(at 101.6 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a7b0f744-8261-4d94-8a48-75379067f139")
+		)
+		(pin "HDMI0_D0_N" input
+			(at 101.6 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a56dfa9c-1b7f-47f4-960c-965f97f9ba03")
+		)
+		(pin "HDMI0_D0_P" input
+			(at 101.6 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "808745f3-789c-429e-9dac-1be112aa6525")
+		)
+		(pin "HDMI0_D1_N" input
+			(at 101.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ab3e63d6-f45d-4738-8ac6-e06aeaa62851")
+		)
+		(pin "HDMI0_D1_P" input
+			(at 101.6 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "71f5ab1b-bd8a-47d6-b434-02e7b29cdc62")
+		)
+		(pin "HDMI0_D2_N" input
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e11c735e-a180-42ac-8955-950a75c3a3ac")
+		)
+		(pin "HDMI0_D2_P" input
+			(at 101.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3648b472-3392-4c9e-b920-4ebb20813eba")
+		)
+		(instances
+			(project "TheBrain"
+				(path "/65a43853-fed5-47dc-8496-a0facecf291b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
