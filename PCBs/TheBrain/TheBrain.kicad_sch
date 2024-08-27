@@ -33,6 +33,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 114.3) (xy 76.2 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2240e777-1bc8-444c-a0c3-863195546075")
+	)
+	(wire
+		(pts
 			(xy 101.6 73.66) (xy 143.51 73.66)
 		)
 		(stroke
@@ -60,16 +70,6 @@
 			(type default)
 		)
 		(uuid "473fc618-e50f-4f4d-91e6-78ce69f9edd5")
-	)
-	(wire
-		(pts
-			(xy 77.47 114.3) (xy 77.47 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47c091aa-07b5-4a22-acb6-a3602d05a10c")
 	)
 	(wire
 		(pts
@@ -133,6 +133,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 114.3) (xy 73.66 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75385cac-8844-47dd-b8b3-7d66e938dce2")
+	)
+	(wire
+		(pts
 			(xy 101.6 71.12) (xy 143.51 71.12)
 		)
 		(stroke
@@ -190,26 +200,6 @@
 			(type default)
 		)
 		(uuid "ca8ccd0f-c329-4c35-8a43-efdd7b8aa811")
-	)
-	(wire
-		(pts
-			(xy 72.39 114.3) (xy 72.39 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e782c936-56e5-4820-890a-ea1952dbc174")
-	)
-	(wire
-		(pts
-			(xy 69.85 114.3) (xy 69.85 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebcc43c0-170a-4397-bb8f-be223b7e7944")
 	)
 	(wire
 		(pts
@@ -567,7 +557,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "828b6eb7-e564-4aa4-be35-4dd33af5a82e")
-		(property "Sheetname" "RTC"
+		(property "Sheetname" "FanControl"
 			(at 41.91 137.7184 0)
 			(effects
 				(font
@@ -576,7 +566,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "RTC.kicad_sch"
+		(property "Sheetfile" "FanControl.kicad_sch"
 			(at 41.91 180.9246 0)
 			(effects
 				(font
@@ -584,26 +574,6 @@
 				)
 				(justify left top)
 			)
-		)
-		(pin "SCL" input
-			(at 69.85 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "1b87a00d-aa1d-4d62-a9f1-95ba51fcc7cd")
-		)
-		(pin "SDA" input
-			(at 72.39 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "f01e8527-4bdc-4195-9de0-79f3068b167d")
 		)
 		(pin "+5v" input
 			(at 41.91 152.4 180)
@@ -615,16 +585,6 @@
 			)
 			(uuid "f147e211-c0ad-4f21-a36f-a8a7458407a0")
 		)
-		(pin "GLOBAL_EN" output
-			(at 77.47 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "3e5d7176-7a6f-4333-a7e6-4baf341b40e8")
-		)
 		(pin "+3.3v" input
 			(at 41.91 149.86 180)
 			(effects
@@ -634,6 +594,26 @@
 				(justify left)
 			)
 			(uuid "83189ce2-bba3-478d-9cb7-77a83ee67688")
+		)
+		(pin "SDA" input
+			(at 73.66 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "727d514d-c64e-4d3f-bd53-4cc69ba5638f")
+		)
+		(pin "SCL" input
+			(at 76.2 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "493ad0ac-98dd-4b4d-99b7-cc1889790c27")
 		)
 		(instances
 			(project "TheBrain"
@@ -693,26 +673,6 @@
 			)
 			(uuid "98a6a0fc-53ff-41b6-a185-7fc04efb9222")
 		)
-		(pin "SCL0" output
-			(at 69.85 114.3 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "3f15489e-473b-4557-8047-d4ab1a823f9a")
-		)
-		(pin "SDA0" output
-			(at 72.39 114.3 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "c2a9e4dd-cf50-4819-832f-d03a84ce7972")
-		)
 		(pin "+3.3v" output
 			(at 40.64 48.26 180)
 			(effects
@@ -732,16 +692,6 @@
 				(justify left)
 			)
 			(uuid "58816756-8f2e-4be7-be4c-4e958e282e0a")
-		)
-		(pin "GLOBAL_EN" input
-			(at 77.47 114.3 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "e4453f47-a6b3-4634-a0ed-c75ec8f9d5db")
 		)
 		(pin "USB2_N" bidirectional
 			(at 101.6 63.5 0)
@@ -882,6 +832,26 @@
 				(justify right)
 			)
 			(uuid "3648b472-3392-4c9e-b920-4ebb20813eba")
+		)
+		(pin "SDA0" output
+			(at 73.66 114.3 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "00c79b95-ae15-4727-9a5a-f08e37d14c14")
+		)
+		(pin "SCL0" output
+			(at 76.2 114.3 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c47f6485-67fc-4149-ac26-46bbf69a12ec")
 		)
 		(instances
 			(project "TheBrain"
